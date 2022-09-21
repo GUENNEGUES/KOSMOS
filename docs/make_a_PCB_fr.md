@@ -32,7 +32,7 @@
  - Dans le bac, verser du dissolvant à la surface de la plaque cuivré. Bien répartir ce dernier afin qu'il prenne tout l'espace de la plaque. 
  - Sans attendre, déposer le papier glacé avec l'ancre imprimé face au cuivre. 
  - Tamponner à l'aide d'un papier essuie tout. 
- - Laisser sécher la plaque une quinzaine d eminutes de manière à ce que le papier ne soit plus du tout humide
+ - Laisser sécher la plaque une quinzaine de minutes de manière à ce que le papier ne soit plus du tout humide
  - Une fois le papier totalement sec, très délicatement passer la plaque sous le robinet d'eau froide. Avec les doigts frotter de manière à dissoudre le papier. Seule les pistes doivent rester sur la plaque de cuivre. 
 
 
